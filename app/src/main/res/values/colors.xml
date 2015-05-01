@@ -1,0 +1,52 @@
+<resources>
+
+    <!--
+        Check Android Theme colors for color reference:
+        https://developer.android.com/training/material/images/ThemeColors.png
+
+        Refer also to Color palette for the UI colors you should use:
+        http://www.google.com/design/spec/style/color.html#color-ui-color-palette
+    -->
+    <color name="baseAlpha">#E6D6374A</color>
+    <color name="baseOne">#EE4054</color>
+    <color name="baseTwo">#D6374A</color>
+    <color name="baseThree">#FF80212C</color>
+    <color name="baseFour">#FFB02E43</color>
+    <color name="baseOneAlpha">#80EE4054</color>
+    <color name="grayMinus">#111111</color>
+    <color name="grayZero">#222222</color>
+    <color name="grayOne">#333333</color>
+    <color name="grayTwo">#666666</color>
+    <color name="grayThree">#999999</color>
+    <color name="grayFour">#BBBBBB</color>
+    <color name="grayFive">#DDDDDD</color>
+    <color name="graySix">#EEEEEE</color>
+    <color name="graySeven">#646464</color>
+    <color name="grayEight">#EEEEEF</color>
+    <color name="grayAlpha">#1A000000</color>
+    <color name="grayAlphaTwo">#80000000</color>
+    <color name="grayAlphaThree">#0D000000</color>
+    <color name="grayAlphaFour">#4D000000</color>
+    <color name="grayAlphaFive">#33000000</color>
+    <color name="grayAlphaSix">#D7000000</color>
+    <color name="grayAlphaSeven">#B3000000</color>
+    <color name="grayAlphaEight">#D2000000</color>
+    <color name="whiteAlpha">#80FFFFFF</color>
+    <color name="whiteAlphaTwo">#CCFFFFFF</color>
+    <color name="orangeOne">#FF8A00</color>
+    <color name="greenOne">#4CAF50</color>
+    <color name="greenOneAlpha">#994CAF50</color>
+    <color name="greenTwo">#43A047</color>
+    <color name="blueOne">#5ACAD8</color>
+    <color name="blueTwo">#FF51A0AF</color>
+
+    <color name="primaryColor">@color/baseOne</color>
+    <color name="primaryDarkColor">@color/baseTwo</color>
+    <color name="accentColor">@color/whiteAlpha</color>
+    <color name="drawerBackground">#FFF</color>
+    <color name="windowBackground">#FFF</color>
+    <color name="textPrimaryColor">@color/grayOne</color>
+    <color name="navigationColor">#000</color>
+
+    <color name="selected_gray">@color/grayFive</color>
+</resources>

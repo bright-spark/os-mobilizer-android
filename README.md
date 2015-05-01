@@ -1,2 +1,2 @@
-# os-mobilizer-android
+# Mobilizer android
 Native Android Mobilizer app
